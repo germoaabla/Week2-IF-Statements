@@ -1,0 +1,14 @@
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net8.0\Week2IFStatements.exe
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net8.0\Week2IFStatements.deps.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net8.0\Week2IFStatements.runtimeconfig.json
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net8.0\Week2IFStatements.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\bin\Debug\net8.0\Week2IFStatements.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.AssemblyInfoInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.AssemblyInfo.cs
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.csproj.CoreCompileInputs.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\refint\Week2IFStatements.dll
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.pdb
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\Week2IFStatements.genruntimeconfig.cache
+C:\Users\germo\Documents\TKTK\c#\source\repos\Week2IFStatements\Week2IFStatements\obj\Debug\net8.0\ref\Week2IFStatements.dll
